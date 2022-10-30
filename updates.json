@@ -1,0 +1,36 @@
+{
+    "addon_version": "2.5.0", 
+    "files": {
+        "channels": [
+            "cuevana3", 
+            "gnula", 
+            "newpelis", 
+            "pelisflix", 
+            "pelispanda", 
+            "pelispedia", 
+            "repelis24", 
+            "repelishd"
+        ], 
+        "modules": [
+            "actions", 
+            "domains", 
+            "groups", 
+            "helper", 
+            "mainmenu", 
+            "submnuctext", 
+            "tester"
+        ], 
+        "resources": [
+            "settings"
+        ], 
+        "root dir": [
+            "dominios", 
+            "version"
+        ], 
+        "servers": [
+            "doodstream"
+        ]
+    }, 
+    "fix_version": 2, 
+    "hash": "ed69be4947d5e736615f1bbf86fd8727"
+}
